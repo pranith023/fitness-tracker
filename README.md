@@ -20,15 +20,15 @@
 
 ## 🚀 Live Demo  
 
-🔗 **Try it here:** [Live Demo](https://trackmygains.streamlit.app/)  
+🔗 **Try it here:** [Live Demo](https://trackfit.streamlit.app/)  
   
 ---
 ## 🛠️ Installation Guide
 
 1️⃣ **Clone the Repository:**  
 ```bash
-git clone https://github.com/Jayanth0124/fitness-tracker.git
-cd fitness-tracker
+git clone https://github.com/pranith023/fitness-tracker.git
+cd fitness
 ```  
 2️⃣ **Install Required Packages:**  
 ```bash
